@@ -37,6 +37,6 @@ To function properly, this application requires the following permissions on AWS
 
 Make sure to set the required environment variables, and consider whether you want
 the EBS Volumes to be tagged or not. 
-If you just want to test it, you can set `EBS_TAGGING_ENABLED`, and the creation of the tags will be skipped.
+If you just want to test it, you can set `EBS_TAGGING_ENABLED` to `false`, and the creation of the tags will be skipped.
 
 Your local aws credentials must also be valid (i.e. you can use `awscli`)
