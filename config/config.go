@@ -94,6 +94,7 @@ func Initialize() error {
 	return nil
 }
 
+// Get returns the application's configuration
 func Get() *config {
 	if cfg == nil {
 		panic("config has not been initialized")
