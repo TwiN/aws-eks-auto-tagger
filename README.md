@@ -1,7 +1,7 @@
 # aws-eks-auto-tagger
 
 [![Docker pulls](https://img.shields.io/docker/pulls/twinproduction/aws-eks-auto-tagger.svg)](https://cloud.docker.com/repository/docker/twinproduction/aws-eks-auto-tagger)
-[![Go Report Card](https://goreportcard.com/badge/github.com/TwinProduction/aws-eks-auto-tagger)](https://goreportcard.com/report/github.com/TwinProduction/aws-eks-auto-tagger)
+[![Go Report Card](https://goreportcard.com/badge/github.com/TwiN/aws-eks-auto-tagger)](https://goreportcard.com/report/github.com/TwiN/aws-eks-auto-tagger)
 
 
 Automatically tags all EBS volumes that are tagged with 

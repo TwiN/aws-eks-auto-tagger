@@ -1,4 +1,4 @@
-module github.com/TwinProduction/aws-eks-auto-tagger
+module github.com/TwiN/aws-eks-auto-tagger
 
 go 1.16
 

@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/TwinProduction/aws-eks-auto-tagger/cloud"
-	"github.com/TwinProduction/aws-eks-auto-tagger/config"
+	"github.com/TwiN/aws-eks-auto-tagger/cloud"
+	"github.com/TwiN/aws-eks-auto-tagger/config"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/ec2"
 	"github.com/aws/aws-sdk-go/service/ec2/ec2iface"
